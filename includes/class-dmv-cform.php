@@ -248,7 +248,7 @@ class Dmv_CForm {
             <label for="email" class="dmv-required">{$options['email']}</label>
             <input type="email" name="dmv-email" id="email" placeholder="Email" required>
 
-            <label for="subject" class="dmv-required">{$options['email']}</label>
+            <label for="subject" class="dmv-required">{$options['subject']}</label>
             <input type="text" name="dmv-subject" id="subject" placeholder="Subject" required>
 
             <label for="message" class="dmv-required" required>{$options['message']}</label>
