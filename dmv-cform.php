@@ -1,17 +1,14 @@
 <?php
 
 /**
- * @link              http://example.com
  * @since             1.0.0
  * @package           DmvContactForm
  *
  * @wordpress-plugin
  * Plugin Name:       Dmv Contact form
- * Plugin URI:        http://example.com/plugin-name-uri/
- * Description:       It is simple contact formplugin with ajax feature.
+ * Description:       It is simple contact form plugin with ajax feature.
  * Version:           1.0.0
  * Author:            Dimitry Vasilenko
- * Author URI:        http://example.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       dmv-cform
