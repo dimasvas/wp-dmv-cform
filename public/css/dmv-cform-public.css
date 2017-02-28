@@ -1,0 +1,31 @@
+.dmv-contact-form {
+    width: 50%;
+}
+
+.dmv-contact-form label {
+    display: block;
+}
+
+.dmv-contact-form input {
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.dmv-contact-form .dmv-required:after {
+    color: #e32;
+    content: ' *';
+    display: inline;
+}
+
+.dmv-contact-form textarea {
+    height: 100px;
+}
+
+.dmv-contact-form input[type=submit] {
+    margin-top: 30px;
+}
+.dmv-contact-form #success-msg {
+    display: inline-block;
+    margin-left: 25px;
+    visibility: hidden;
+}
